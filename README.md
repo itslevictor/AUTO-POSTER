@@ -1,0 +1,2 @@
+# AUTO-POSTER
+Postador automatico
